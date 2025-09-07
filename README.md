@@ -3,6 +3,21 @@
 I'm a **Frontend Developer** with 2+ years of professional experience.  
 Passionate about **TypeScript, Next.js, and building full-stack apps**.  
 
+
+```markdown
+```javascript
+const Kiyan = {
+  name: "Kiyan Alavi 👋",
+  role: "Frontend Developer 💻",
+  focus: ["JavaScript ⚡", "TypeScript 🟦", "React ⚛️", "Next.js ⬛", "Redux 🟪", "Zustand 🖤", "React Query 🔍", "Node.js 🟢"],
+  experience: "2+ years 🏆",
+  location: "Iran, Mashhad",
+  contact: {
+    email: "kiyanalavi1379@gamil.com ✉️",
+    linkedin: "https://linkedin.com/in/kiyan-alavi-924359194 🔗",
+  }
+};
+```
 ---
 
 ## 🛠 Tech Stack
