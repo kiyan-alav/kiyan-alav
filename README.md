@@ -16,12 +16,7 @@ Passionate about **TypeScript, Next.js, and building full-stack apps**.
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socketdotio&logoColor=fff)
-
-![Flat](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![Flat-Square](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Plastic](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000)
-![For-the-badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+![GitHub followers](https://img.shields.io/github/followers/kiyan-alav?style=social)
 
 
 ---
