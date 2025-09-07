@@ -4,8 +4,8 @@ I'm a **Frontend Developer** with 2+ years of professional experience.
 Passionate about **TypeScript, Next.js, and building full-stack apps**.  
 
 
-```markdown
-```javascript
+
+```typescript
 const Kiyan = {
   name: "Kiyan Alavi 👋",
   role: "Frontend Developer 💻",
