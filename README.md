@@ -30,7 +30,9 @@ const Kiyan = {
 ![Zustand](https://img.shields.io/badge/-Zustand-181717?style=flat&logo=zustand&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socketdotio&logoColor=fff)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socketdotio&logoColor=fff) 
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+<br />
 ![GitHub followers](https://img.shields.io/github/followers/kiyan-alav?style=social)
 
 
