@@ -40,8 +40,8 @@ const Kiyan = {
 
 ## 📊 GitHub Stats
 
-![Kiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyan-alav&show_icons=true&theme=radical)  <br /><br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyan-alav&layout=compact&theme=radical) <br /><br />
+![GitHub Streak](https://streak-stats.demolab.com?user=kiyan-alav&theme=radical)  <br /><br />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiyan-alav&theme=react-dark) <br /><br />
 ![GitHub Streak](https://streak-stats.demolab.com?user=kiyan-alav&theme=radical&hide_border=true) <br /><br />
 ![Profile views](https://komarev.com/ghpvc/?username=kiyan-alav&color=blue)
 
