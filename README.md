@@ -2,7 +2,7 @@
 
 ### Web Developer · JavaScript & TypeScript
 
-I'm a web developer based in **Mashhad, Iran**, with **2+ years of professional experience**.
+I'm a web developer based in **Mashhad, Iran**, with **3+ years of professional experience**.
 
 I build full-stack web applications with **TypeScript, React, Next.js, and Node.js**. I enjoy turning ideas into working products and exploring real-time web experiences.
 
